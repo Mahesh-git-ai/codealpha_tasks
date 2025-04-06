@@ -9,7 +9,7 @@ public class StudentGradeTracker {
 
         System.out.println("Enter student grades (type -1 to finish):");
 
-        // Collecting grades
+        // Collecting grades of students 
         while (true) {
             System.out.print("Enter grade: ");
             grade = scanner.nextDouble();
